@@ -1,0 +1,29 @@
+:root {
+  --bg-pre-clr: rgba(11, 11, 11, 0.776);
+  --bg-sec-clr: rgb(38, 36, 36);
+  --bg-active-clr:rgb(234, 227, 227);
+  --danger-clr :rgb(196, 73, 73);
+  --success-clr :rgb(49, 171, 49);
+  /* textcolor */
+  --text-pre-clr :rgb(252, 244, 244);
+  --text-sec-clr :rgb(202, 189, 189);
+  --text-active-clr :rgb(30, 27, 27);
+  /* padding/margin/gap */
+  --p-m-g-s: 0.5rem;
+  --p-m-g-m: 1rem;
+  --p-m-g-l: 1.5rem;
+  --p-m-g-xl: 2rem;
+  --p-m-g-xxl: 3rem;
+  /* fontsize */
+  --s-font: 0.875rem;
+  --m-font: 1rem;
+  --l-font: 1.125rem;
+  --xl-font: 1.25rem;
+  --xxl-font: 1.5rem;
+  /* border-radius */
+  --s-bd-rad : 0.2rem;
+  --m-bd-rad : 0.25rem;
+  --l-bd-rad : 0.3rem;
+  --xl-bd-rad : 0.4rem;
+  --xxl-bd-rad : 0.5rem;
+}
